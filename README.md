@@ -1,5 +1,4 @@
-## Thesis Defense Security AuditReports
-
+![](Content/images/logo/td_banner_black.svg)
 
 
 | Client                     | Project Name |Date           | Report           | Type             | 
