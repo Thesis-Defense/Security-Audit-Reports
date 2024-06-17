@@ -16,7 +16,7 @@
 |[Hermetica](https://app.hermetica.fi/earn)	| Hermetica Smart Contracts	| March 2024	| [:page_facing_up:](PDFs/240405_Thesis_Defense-Hermetica_Labs_Hermetica_Smart_Contracts_Security_Audit_Report.pdf)	| Smart Contracts | Clarity |
 |[Ordiswap](https://ordiswap.fi/)| 	Frontend + Backend 2.0 Implementation |	March 2024 |	Private |	Bitcoin + BRC Bridge | TypeScript/JavaScript|
 |[Mezo](https://info.mezo.org/)|	Portal Smart Contracts|	March 2024	| [:page_facing_up:](PDFs/240314_Thesis_Defense-Mezo_Portal_Smart_Contracts_Security_Audit_Report.pdf)	|  Smart Contracts | Solidity|
-|[POKT Network](https://www.pokt.network/)	| Sparse Merkle Trie (SMT)|	February 2024 |	[:page_facing_up:](PDFs/240612_Thesis_Defense-Pokt_Network_Sparse_Merkel_Tree_Security_Audit_Report.pdf)	| Sparse Merkle Trie Cryptographic Implementation| Go |
+|[POKT Network](https://www.pokt.network/)	| Sparse Merkle Trie (SMT)|	February 2024 |	[:page_facing_up:](PDFs/240612_Thesis_Defense-Pokt_Network_Sparse_Merkel_Trie_Security_Audit_Report.pdf)	| Sparse Merkle Trie Cryptographic Implementation| Go |
 
 
 
