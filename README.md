@@ -5,7 +5,7 @@
 
 | Client	| Project Name	| Date	| Report	| Type      |Language |
 |-----------|---------------|-------|-----------|-----------|---------|
-| [POKT Network](https://www.pokt.network/)|	Ring-go |	June 2024|	Private	| Linkable Ring Signatures Cryptographic Implementation|Go |
+| [POKT Network](https://www.pokt.network/)|	Ring-go |	July 2024|	[:page_facing_up:](PDFs/240704_Thesis_Defense-Pokt_Network_ring-go_Security_Audit_Report.pdf)	| Linkable Ring Signatures Cryptographic Implementation|Go |
 |[Velar Labs](https://www.velar.co/)|	Vyper Smart Contracts| 	June 2024	|Private |	 Smart Contracts| Vyper |
 | [The Arena](https://arena.social/)	|Group Smart Contracts	|May 2024	|Private |	 Smart Contracts | Solidity|
 |[Velar Labs](https://www.velar.co/)	|Clarity Smart Contracts	|May 2024	| Private |	 Smart Contracts| Clarity |
