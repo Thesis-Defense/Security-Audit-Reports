@@ -6,9 +6,9 @@
 | Client	| Project Name	| Date	| Report	| Type      |Language |
 |-----------|---------------|-------|-----------|-----------|---------|
 | [POKT Network](https://www.pokt.network/)|	Ring-go |	July 2024|	[:page_facing_up:](PDFs/240704_Thesis_Defense-Pokt_Network_ring-go_Security_Audit_Report.pdf)	| Linkable Ring Signatures Cryptographic Implementation|Go |
-|[Velar Labs](https://www.velar.co/)|	Vyper Smart Contracts| 	June 2024	|Private |	 Smart Contracts| Vyper |
+|[Velar Labs](https://www.velar.co/)|	Vyper Smart Contracts| 	June 2024	|[:page_facing_up:](PDFs/240717_Thesis_Defense-Velar_Vyper_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts| Vyper |
 | [The Arena](https://arena.social/)	|Group Smart Contracts	|May 2024	|Private |	 Smart Contracts | Solidity|
-|[Velar Labs](https://www.velar.co/)	|Clarity Smart Contracts	|May 2024	| Private |	 Smart Contracts| Clarity |
+|[Velar Labs](https://www.velar.co/)	|Clarity Smart Contracts	|May 2024	| [:page_facing_up:](PDFs/240711_Thesis_Defense-Velar_Clarity_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts| Clarity |
 | [Diva Staking](https://divastaking.com/)	|Diva Smart Contracts	|April-May, 2024|	Private	| Smart Contracts | Solidity |
 |[Zest Protocol](https://www.zestprotocol.com/)	|Zest Protocol Smart Contracts	| April-May, 2024|	[:page_facing_up:](PDFs/240509_Thesis_Defense-Zest_Protocol_Smart_Contracts_Security_Audit_Report.pdf)	|  Smart Contracts | Clarity|
 |[Mezo](https://info.mezo.org/)	| Mezo Smart Contracts	| April, 2024	| [:page_facing_up:](PDFs/240419_Thesis_Defense-Mezo_Smart_Contracts_Security_Audit_Report.pdf)	|  Smart Contracts | Solidity |
