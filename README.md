@@ -5,9 +5,9 @@
 
 | Client	| Project Name	| Date	| Report	| Type      |Language |
 |-----------|---------------|-------|-----------|-----------|---------|
-| [Mezo & Acre](https://info.mezo.org/)|	Mezo-Acre stBTC Smart Contracts |	August 2024|	[:page_facing_up:](PDFs/240808_Thesis_Defense-Mezo-Acre_stBTC_Smart_Contracts_Security_Audit_Report.pdf)	| Smart Contracts|Solidity |
 | [POKT Network](https://www.pokt.network/)|	Ring-go |	July 2024|	[:page_facing_up:](PDFs/240704_Thesis_Defense-Pokt_Network_ring-go_Security_Audit_Report.pdf)	| Linkable Ring Signatures Cryptographic Implementation|Go |
 |[Velar Labs](https://www.velar.co/)|	Vyper Smart Contracts| 	June 2024	|[:page_facing_up:](PDFs/240717_Thesis_Defense-Velar_Vyper_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts| Vyper |
+| [Acre](https://acre.fi/)|	Acre Smart Contracts |	May 2024|	[:page_facing_up:](PDFs/240517_Thesis_Defense-Acre_Smart_Contracts_Security_Audit_Report.pdf)	| Smart Contracts|Solidity |
 | [The Arena](https://arena.social/)	|Group Smart Contracts	|May 2024	|Private |	 Smart Contracts | Solidity|
 |[Velar Labs](https://www.velar.co/)	|Clarity Smart Contracts	|May 2024	| [:page_facing_up:](PDFs/240711_Thesis_Defense-Velar_Clarity_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts| Clarity |
 | [Diva Staking](https://divastaking.com/)	|Diva Smart Contracts	|April-May, 2024|	Private	| Smart Contracts | Solidity |
