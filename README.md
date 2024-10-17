@@ -1,4 +1,4 @@
-![](Content/images/logo/td_banner_black.svg)
+![](Content/images/logo/Logo-Black.png)
 
 <h1 class="center" style=""> Security Audit Reports </h1>
 
