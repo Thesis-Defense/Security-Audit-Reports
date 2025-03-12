@@ -5,8 +5,8 @@
 
 | Client	| Project Name	| Date	| Report	| Type      |Language |
 |-----------|---------------|-------|-----------|-----------|---------|
-| [Coffer Network](https://www.coffer.network/)	|Coffer Smart Contracts	|January 2025	|Private |	 Smart Contracts | Solidity|
-| [Coffer Network](https://www.coffer.network/)	|Coffer App APR	|January 2025	|Private |	 Application API Implementation | Go|
+| [Coffer Network](https://www.coffer.network/)	|Coffer Smart Contracts	|January 2025	|[:page_facing_up:](PDFs/250123_Defense_by_Thesis-Coffer_Network_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts | Solidity|
+| [Coffer Network](https://www.coffer.network/)	|Coffer App API	|January 2025	|[:page_facing_up:](PDFs/250116_Defense_by_Thesis-Coffer_Network_Coffer_App_API_Security_Audit_Report.pdf) |	 Application API Implementation | Go|
 | [NEAR Satoshi Protocol](https://www.ref.finance/)	|NEAR Satoshi Protocol Smart Contracts	|November 2024	|Private |	 Smart Contracts | Rust|
 | [Acre](https://acre.fi/) & [Mezo](https://info.mezo.org/) |	stBTC Smart Contracts |	August 2024|	[:page_facing_up:](PDFs/240808_Thesis_Defense-Mezo-Acre_stBTC_Smart_Contracts_Security_Audit_Report.pdf)	| Smart Contracts|Solidity |
 | [POKT Network](https://www.pokt.network/)|	Ring-go |	July 2024|	[:page_facing_up:](PDFs/240704_Thesis_Defense-Pokt_Network_ring-go_Security_Audit_Report.pdf)	| Linkable Ring Signatures Cryptographic Implementation|Go |
