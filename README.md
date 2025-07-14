@@ -5,6 +5,8 @@
 
 | Client	| Project Name	| Date	| Report	| Type      |Language |
 |-----------|---------------|-------|-----------|-----------|---------|
+| [Templar Protocol](https://www.templarfi.org/)	|Templar Smart Contracts	|July 2025	|[:page_facing_up:](PDFs/250701_Defense_by_Thesis-Templar_Smart_Contracts_Final_Security_Audit_Report.pdf) |	 Smart Contracts | Rust|
+| [Bitfi Protocol](https://www.blend.fan/)	|BitFi Smart Contracts	|June 2025	|[:page_facing_up:](PDFs/250623_Defense_by_Thesis_BitFi_Smart_Contracts_Final_Audit_Report.pdf) |	 Smart Contracts | Solidity|
 | [Coffer Network](https://www.coffer.network/)	|Coffer Smart Contracts	|January 2025	|[:page_facing_up:](PDFs/250123_Defense_by_Thesis-Coffer_Network_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts | Solidity|
 | [Coffer Network](https://www.coffer.network/)	|Coffer App API	|January 2025	|[:page_facing_up:](PDFs/250116_Defense_by_Thesis-Coffer_Network_Coffer_App_API_Security_Audit_Report.pdf) |	 Application API Implementation | Go|
 | [NEAR Satoshi Protocol](https://www.ref.finance/)	|NEAR Satoshi Protocol Smart Contracts	|November 2024	|Private |	 Smart Contracts | Rust|
