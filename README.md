@@ -6,6 +6,7 @@
 | Client	| Project Name	| Date	| Report	| Type      |Language |
 |-----------|---------------|-------|-----------|-----------|---------|
 | [Mezo](https://www.mezo.org/)	|MezoBridge Smart Contract	|September 2025	|[:page_facing_up:](PDFs/250910_Defense_by_Thesis-MezoBridge_Smart_Contract_Final_Audit_Report.pdf) |	 Smart Contracts | Solidity|
+| [Best-in-Slot](https://bestinslot.xyz/)	|brc20-programmable-module	|September 2024	|Private |	Indexer & Smart Contracts  | Rust & Solidity|
 | [Templar Protocol](https://www.templarfi.org/)	|Templar Smart Contracts	|July 2025	|[:page_facing_up:](PDFs/250701_Defense_by_Thesis-Templar_Smart_Contracts_Final_Security_Audit_Report.pdf) |	 Smart Contracts | Rust|
 | [Bitfi Protocol](https://bit-fi.xyz/)	|Blend Smart Contracts	|June 2025	|[:page_facing_up:](PDFs/250623_Defense_by_Thesis_BitFi_Smart_Contracts_Final_Audit_Report.pdf) |	 Smart Contracts | Solidity|
 | [Coffer Network](https://www.coffer.network/)	|Coffer Smart Contracts	|January 2025	|[:page_facing_up:](PDFs/250123_Defense_by_Thesis-Coffer_Network_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts | Solidity|
