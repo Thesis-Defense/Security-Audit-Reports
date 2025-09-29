@@ -5,6 +5,7 @@
 
 | Client	| Project Name	| Date	| Report	| Type      |Language |
 |-----------|---------------|-------|-----------|-----------|---------|
+| [Rhea Finance](https://www.rhea.finance/)	|Satoshi Bridge	|September 2025	|[:page_facing_up:](PDFs/250812_Defense_by_Thesis-NEAR_Satoshi_Bridge_Smart_Contracts_Final_Audit_Report.pdf) |	BTC<>NEAR Bridge  | Rust |
 | [Midl Execution Layer](https://midl.xyz/)	|Midl Runes Indexation	|September 2025	|[:page_facing_up:](PDFs/250917_Defense_by_Thesis-Midl_Runes_Indexation_Final_Security_Audit_Report.pdf) |	BTC Indexer  | Rust |
 | [Mezo](https://www.mezo.org/)	|MezoBridge Smart Contract	|September 2025	|[:page_facing_up:](PDFs/250910_Defense_by_Thesis-MezoBridge_Smart_Contract_Final_Audit_Report.pdf) |	 Smart Contracts | Solidity|
 | [Best-in-Slot](https://bestinslot.xyz/)	|brc20-programmable-module	|September 2025	|Private |	BTC Indexer & Smart Contracts  | Rust & Solidity|
