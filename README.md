@@ -5,11 +5,11 @@
 
 | Client	| Project Name	| Date	| Report	| Type      |Language |
 |-----------|---------------|-------|-----------|-----------|---------|
-| [Rhea Finance](https://www.rhea.finance/)	|Satoshi Bridge	|September 2025	|[:page_facing_up:](PDFs/250812_Defense_by_Thesis-NEAR_Satoshi_Bridge_Smart_Contracts_Final_Audit_Report.pdf) |	BTC<>NEAR Bridge  | Rust |
 | [Midl Execution Layer](https://midl.xyz/)	|Midl Runes Indexation	|September 2025	|[:page_facing_up:](PDFs/250917_Defense_by_Thesis-Midl_Runes_Indexation_Final_Security_Audit_Report.pdf) |	BTC Indexer  | Rust |
+| [Best-in-Slot](https://bestinslot.xyz/)	|brc20-programmable-module	|September 2025	|[:page_facing_up:](PDFs/250912_Defense_by_Thesis-Best-in-Slot_brc20-programmable-module_Final_Security_Audit_Report.pdf) |	BTC Indexer & Smart Contracts  | Rust & Solidity|
 | [Mezo](https://www.mezo.org/)	|MezoBridge Smart Contract	|September 2025	|[:page_facing_up:](PDFs/250910_Defense_by_Thesis-MezoBridge_Smart_Contract_Final_Audit_Report.pdf) |	 Smart Contracts | Solidity|
-| [Best-in-Slot](https://bestinslot.xyz/)	|brc20-programmable-module	|September 2025	|Private |	BTC Indexer & Smart Contracts  | Rust & Solidity|
 | [Brotocol](https://bit-fi.xyz/)	|BridgeEndPoint Smart Contract	|August 2025	|[:page_facing_up:](PDFs/250825_Defense_by_Thesis-Brotocol_BridgeEndPoint_Smart_Contract_Final_Audit_Report.pdf) |	 Smart Contracts | Solidity|
+| [Rhea Finance](https://www.rhea.finance/)	|Satoshi Bridge	|August 2025	|[:page_facing_up:](PDFs/250812_Defense_by_Thesis-NEAR_Satoshi_Bridge_Smart_Contracts_Final_Audit_Report.pdf) |	BTC<>NEAR Bridge  | Rust |
 | [Templar Protocol](https://www.templarfi.org/)	|Templar Smart Contracts	|July 2025	|[:page_facing_up:](PDFs/250701_Defense_by_Thesis-Templar_Smart_Contracts_Final_Security_Audit_Report.pdf) |	 Smart Contracts | Rust|
 | [Bitfi Protocol](https://bit-fi.xyz/)	|Blend Smart Contracts	|June 2025	|[:page_facing_up:](PDFs/250623_Defense_by_Thesis_BitFi_Smart_Contracts_Final_Audit_Report.pdf) |	 Smart Contracts | Solidity|
 | [Coffer Network](https://www.coffer.network/)	|Coffer Smart Contracts	|January 2025	|[:page_facing_up:](PDFs/250123_Defense_by_Thesis-Coffer_Network_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts | Solidity|
